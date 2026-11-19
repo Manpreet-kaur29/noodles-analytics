@@ -160,7 +160,7 @@ Then open `reports/*.pbix` in Power BI Desktop and refresh.
 
 ## Contact
 
-**Manpreet Kaur** | [your.email@example.com]
+**Manpreet Kaur** | [chouhanman96@gmail.com]
 
 ---
 
