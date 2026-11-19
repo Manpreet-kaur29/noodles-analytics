@@ -176,3 +176,26 @@ Then open `reports/*.pbix` in Power BI Desktop and refresh.
 
 > Paths above resolve on GitHub once the files are pushed. `docs/screenshots/executive-dashboard.png`
 > is optional — add it when you have a screenshot from Task 8.
+
+## Linkedln Post Draft
+
+🚀 Just finished my end-to-end analytics project: **Noodles Analytics Platform**
+
+I combined crypto market data with Twitter and Reddit engagement to see how social buzz relates to price movement.
+
+**What I built:**
+✅ Automated Python ETL pipeline (5-minute runtime, 1M+ rows)
+✅ MySQL star schema warehouse
+✅ Interactive Power BI dashboards with daily refresh
+✅ Data quality validation at every stage
+
+**Key insights:**
+📈 Bitcoin made up 45% of total market capitalisation
+📊 The top 20 currencies drove 90% of trading volume
+💬 Social engagement was linked to about 30% of price movements
+
+This project showed me that most of the work happens before the chart: clean, validated, well-modelled data.
+
+🔗 Code and documentation: https://github.com/Manpreet-kaur29/noodles-analytics
+
+#DataAnalytics #Python #MySQL #PowerBI #DataEngineering
