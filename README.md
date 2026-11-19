@@ -2,7 +2,7 @@
 **GitHub Repository:** https://github.com/Manpreet-kaur29/noodles-analytics
 
 ![Executive Dashboard](Screenshot%20(25).png)
-![Executive Dashboard](Screenshot%20(24).png)
+![Executive Dashboard](Screenshots%20(24).png)
 ![Executive Dashboard](Screenshots%20(23).png)
 ![Executive Dashboard](Screenshot%20(26).png)
 
