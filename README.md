@@ -1,7 +1,7 @@
 # Noodles Crypto Analytics Platform
 **GitHub Repository:** https://github.com/Manpreet-kaur29/noodles-analytics
 
-![Executive Dashboard](docs/screenshots/executive-dashboard.png)
+![Executive Dashboard](<screenshots(24).png>)
 
 ---
 
