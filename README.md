@@ -4,7 +4,7 @@
 ![Executive Dashboard](Screenshot%20(25).png)
 ![Executive Dashboard](Screenshots%20(24).png)
 ![Executive Dashboard](Screenshots%20(23).png)
-![Executive Dashboard](Screenshot%20(26).png)
+![Executive Dashboard](Screenshots%20(26).png)
 
 ---
 
