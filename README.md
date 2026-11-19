@@ -31,7 +31,7 @@ JSON files  →  Python ETL  →  MySQL (noodles_dw)  →  Power BI Dashboards
 
 Six layers — source, staging, core warehouse, aggregation, presentation, and
 orchestration — run top to bottom. The full diagram lives in
-![Architecture Diagram] (docs/architecture-diagram.png)
+![Architecture Diagram](docs/architecture-diagram.png)
 
 ---
 
