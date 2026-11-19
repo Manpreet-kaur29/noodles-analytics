@@ -77,7 +77,7 @@ noodles-analytics/
 **Grain:** one row per engagement event
 
 The full column-level dictionary is in
-[`docs/data-dictionary.xlsx`](docs/data-dictionary.xlsx).
+[Data Dictionary](data-dictionary.xlsx)
 
 ---
 
